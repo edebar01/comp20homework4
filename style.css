@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+setList:before {
+	content: "Set List ";
+	font-size: 60px;
+	font-weight: 5;
+	margin-left: 8px;
+}
+
+setList {
+	font-family: "Book Antiqua", Palatino, serif; 
+	background-color: #caede3;
+}
+
+song {
+	display: block;
+	padding: 8px 0px;
+}
+
+title {
+	display: block;
+	font-size: 30px;
+	margin-left: 15px;
+	padding: 5px 0;
+}
+
+artist name {
+	display: block;
+	margin-left: 30px;
+	font-size: 20px;
+	font-family: "Lucida Console", Courier, monospace;
+}
+
+artist name:before {
+	content: "Artist: ";
+}
+
+genre {
+	display: block;
+	margin-left: 50px;
+	font-size: 20px;
+	font-family: "Lucida Console", Courier, monospace;
+}
+
+genre:before {
+	content: "Genre: ";
+}
+
+yearReleased {
+	display: block;
+	margin-left: 70px;
+	font-size: 20px;
+	font-family: "Lucida Console", Courier, monospace;
+}
+
+yearReleased:before {
+	content: "Year Released: ";
+}

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "style.css" ?>
+<setList>
+	<song>
+		<title> Fallingwater </title>
+		<artist>
+			<name>
+				<firstName> Maggie </firstName>
+				<lastName> Rogers </lastName>
+			</name>
+		</artist>
+		<genre> Indie-pop </genre>
+		<yearReleased> 2019 </yearReleased>
+	</song>
+	<song>
+		<title> ENTROPY </title>
+		<artist>
+			<name>
+				<firstName> Daniel </firstName>
+				<lastName> Caesar </lastName>
+			</name>
+		</artist>
+		<genre> R&amp;B </genre>
+		<yearReleased> 2019 </yearReleased>
+	</song>
+	<song>
+		<title> Bags </title>
+		<artist>
+			<name>
+				<firstName> Clairo </firstName>
+				<lastName />
+			</name>
+		</artist>
+		<genre> Indie </genre>
+		<yearReleased> 2019 </yearReleased>
+	</song>
+	<song>
+		<title> Hide And Seek </title>
+		<artist>
+			<name>
+				<firstName> Imogen </firstName>
+				<lastName> Heap </lastName>
+			</name>
+		</artist>
+		<genre> Folktronica </genre>
+		<yearReleased> 2005 </yearReleased>
+	</song>
+	<song>
+		<title> Isabel's Moment </title>
+		<artist>
+			<name>
+				<firstName> King </firstName>
+				<lastName> Princess </lastName>
+			</name>
+		</artist>
+		<genre> Pop </genre>
+		<yearReleased> 2019 </yearReleased>
+	</song>
+	<song>
+		<title> Pink + White </title>
+		<artist>
+			<name>
+				<firstName> Frank </firstName>
+				<lastName> Ocean </lastName>
+			</name>
+		</artist>
+		<genre> Pop </genre>
+		<yearReleased> 2016 </yearReleased>
+	</song>
+	<song>
+		<title> Never Ending </title>
+		<artist>
+			<name>
+				<firstName> Rihanna </firstName>
+				<lastName />
+			</name>
+		</artist>
+		<genre> Contemporary R&amp;B </genre>
+		<yearReleased> 2016 </yearReleased>
+	</song>
+	<song>
+		<title> Mariners Apartment Complex </title>
+		<artist>
+			<name>
+				<firstName> Lana </firstName>
+				<lastName> Del Rey </lastName>
+			</name>
+		</artist>
+		<genre> Alternative </genre>
+		<yearReleased> 2019 </yearReleased>
+	</song>
+	<song>
+		<title> Don't Dream It's Over </title>
+		<artist>
+			<name>
+				<firstName> Crowded </firstName>
+				<lastName> House </lastName>
+			</name>
+		</artist>
+		<genre> Pop rock </genre>
+		<yearReleased> 1986 </yearReleased>
+	</song>
+	<song>
+		<title> Say it </title>
+		<artist>
+			<name>
+				<firstName> Maggie </firstName>
+				<lastName> Rogers </lastName>
+			</name>
+		</artist>
+		<genre> Indie-pop </genre>
+		<yearReleased> 2019 </yearReleased>
+	</song>
+	<song>
+		<title> Drew Barrymore </title>
+		<artist>
+			<name>
+				<firstName> SZA </firstName>
+				<lastName />
+			</name>
+		</artist>
+		<genre> Neo Soul </genre>
+		<yearReleased> 2017 </yearReleased>
+	</song>
+	<song>
+		<title> The greatest </title>
+		<artist>
+			<name>
+				<firstName> Lana </firstName>
+				<lastName> Del Rey </lastName>
+			</name>
+		</artist>
+		<genre> Alternative </genre>
+		<yearReleased> 2019 </yearReleased>
+	</song>
+</setList>
